@@ -6,6 +6,7 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
+  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -16,13 +17,18 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 
 ### Screenshot
 
-Here is the result of my solution for this challenge on different platforms:
+Here is the outcome of my solution, which is compatible with various platforms:
 
 - Firefox
 - Safari
 - Chrome
 
 ![Solution](./src/assets/result.png)
+
+### Links
+
+- Solution URL: [https://github.com/rainof/qr-code-project](https://github.com/rainof/qr-code-project)
+- Live Site URL: [https://rainof.github.io/qr-code-project](https://rainof.github.io/qr-code-project)
 
 ## My process
 
@@ -65,3 +71,7 @@ Here is the result of my solution for this challenge on different platforms:
 ## Author
 
 Pattaraporn Tulathum
+
+## Acknowledgement
+
+I would like to express my sincere gratitude to ChatGPT by OpenAI for providing invaluable assistance throughout the development of this project. The guidance and support helped me navigate through challenges and enhanced my learning experience in frontend development, particularly with React and responsive design.
